@@ -6,10 +6,7 @@
                 margin: 0 auto;
                 border: 5px solid #cf1010;
                 padding: 16px
-            
             }
-
-            
             main{
                 background-color: #FFFFFF;
                 color:#183c63;
@@ -19,7 +16,6 @@
             }
             article{
                 display: flex;
-
             }
             img {
                 width: 80px;
