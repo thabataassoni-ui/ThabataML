@@ -2,17 +2,15 @@
                 background-color: #183c63;
                 color: #FFFFFF;
                 text-align: center;
-                max-width: 800px;
                 margin: 0 auto;
-                border: 5px solid #cf1010;
                 padding: 16px
             }
             main{
                 background-color: #FFFFFF;
                 color:#183c63;
-                text-align: center;
-                max-width: 800px;
                 margin: 0 auto;
+                padding: 16px;
+                        
             }
             article{
                 display: flex;
