@@ -55,7 +55,7 @@
             --fonte-texto: 'Segoe UI', sans-serif;
 }
 }
-.tema-escuro a { 
+.tema-escuro a{ 
             color: var(--cor-secundaria);
 }
 .tema-escuro p{
