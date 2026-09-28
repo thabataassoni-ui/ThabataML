@@ -30,7 +30,10 @@ body {
 }
 
 .tema-escuro header p{
-            color: var(--cor-contraste);
+            color: var(--cor-texto-escuro, #151428);
+}
+.tema-escuro header h1{
+            color: #151428;
 }
 
 .btn-tema-escuro{
