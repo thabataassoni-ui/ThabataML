@@ -49,8 +49,8 @@ header {
                 padding: 16px
             }
             main{
-                background-color: var(--cor-primaria);
-                color: var(--cor-contraste);
+                background-color: var(--cor-fundo);
+                color: var(--cor-texto);
                 margin: 0 auto;
                 padding: 16px;
 
@@ -60,8 +60,10 @@ header {
             }
             article{
                 display: flex;
-
-                border: 1px solid #183C63; 
+                background-color: var(--cor-contraste);
+                border: 1px solid var(--cor-primaria); 
+                border-radius: 8px;
+                max-width: 300px;
                         
                 margin: 16px;
                 gap: 16px;
